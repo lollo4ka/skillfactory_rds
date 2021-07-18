@@ -11,5 +11,5 @@ https://www.kaggle.com/c/sf-dl-car-classification
 4. Протестировала несколько вариантов efficientnet c fine-tuning
 5. Добавила tta
 
-В корневой папке лежит основной ноутбук, в котором были выполнены все манипуляции. Максимальное значение ROC-AUC - 
-Данные можно скачать [здесь](https://www.kaggle.com/c/sf-dl-car-classification)
+В корневой папке лежит основной ноутбук, в котором были выполнены все манипуляции. Лучший скор - 0.94621.
+Данные можно скачать [здесь](https://www.kaggle.com/c/sf-dl-car-classification).
