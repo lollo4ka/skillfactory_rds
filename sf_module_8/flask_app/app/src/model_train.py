@@ -146,9 +146,6 @@ print("Accuracy: %.2f%%" % (scores[1]*100))
 # FEATURE_ORDER_FILE = '_feature_order.pkl'
 # TEST_DATA_FILE = '_test_data.pkl'
 #
-#
-# # ******** НИЖЕ НАПИШИТЕ КОД СЕРИАЛИЗАЦИИ МОДЕЛИ В ФАЙЛ MODEL_FILE
-# # ........
 # with open(MODEL_FILE, 'wb') as output:
 #     pickle.dump(model, output)
 
@@ -163,7 +160,6 @@ print("Accuracy: %.2f%%" % (scores[1]*100))
 # print('Feature order:', feature_order)
 #
 #
-# # ******** НИЖЕ НАПИШИТЕ КОД СЕРИАЛИЗАЦИИ feature_order В ФАЙЛ FEATURE_ORDER_FILE
-# # ........
+# # ******** КОД СЕРИАЛИЗАЦИИ feature_order В ФАЙЛ FEATURE_ORDER_FILE
 # with open(FEATURE_ORDER_FILE, 'wb') as output:
 #     pickle.dump(feature_order, output)
