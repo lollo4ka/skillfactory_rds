@@ -14,7 +14,7 @@ https://www.kaggle.com/c/severstal-steel-defect-detection
 ## В папке находятся следующие файлы
 1. visualization-and-eda.ipynb - ноутбук с анализом данных
 2. 1-unet-in-steel - ноутубук с UNet
-3. 2-multi-model-in-steel - ноутубк с моделью
+3. 2-multi-model-in-steel - ноутубк с моделью из нескольких сеток
 4. requirements.txt - ! добавить
 
 ## Что было сделано
