@@ -186,7 +186,7 @@ torchvision==0.8.2
 tornado==6.1
 tqdm==4.56.0
 traitlets==5.0.5
-Twisted==20.3.0
+Twisted==22.1.0
 typer==0.3.2
 typing-extensions==3.7.4.3
 ujson==4.0.2
