@@ -89,7 +89,7 @@ constantly==15.1.0
 contextily==1.1.0
 contextlib2==21.6.0
 convertdate==2.3.2
-cookiecutter==1.7.0
+cookiecutter==2.1.1
 cryptography @ file:///home/conda/feedstock_root/build_artifacts/cryptography_1616851478755/work
 cudf==21.6.1+2.g101fc0fda4
 cufflinks==0.17.3
