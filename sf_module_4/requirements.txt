@@ -93,7 +93,7 @@ networkx==2.5
 nltk==3.5
 notebook @ git+https://github.com/deepnote/jupyter-notebook.git@632ba218b3106282a6d4630e758e4ca49c610885
 numba==0.52.0
-numpy==1.19.5
+numpy==1.22.0
 oauthlib==3.1.0
 opt-einsum==3.3.0
 packaging==20.9
