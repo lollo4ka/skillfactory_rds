@@ -376,7 +376,7 @@ notebook @ file:///home/conda/feedstock_root/build_artifacts/notebook_1621259862
 notebook-executor @ file:///opt/conda/conda-bld/dlenv-base_1624064777121/work/packages/notebook_executor
 numba @ file:///home/conda/feedstock_root/build_artifacts/numba_1623568548143/work
 numexpr==2.7.3
-numpy==1.19.5
+numpy==1.22.0
 nvidia-ml-py3==7.352.0
 nvtx @ file:///home/conda/feedstock_root/build_artifacts/nvtx_1612462195514/work
 oauth2client==4.1.3
