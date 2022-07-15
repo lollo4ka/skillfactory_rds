@@ -117,7 +117,7 @@ Deprecated @ file:///home/conda/feedstock_root/build_artifacts/deprecated_161825
 descartes==1.1.0
 dill==0.3.4
 dipy==1.4.1
-distributed==2021.6.2
+distributed==2021.10.0
 dlib==19.22.0
 dm-tree==0.1.6
 docker @ file:///home/conda/feedstock_root/build_artifacts/docker-py_1617755742617/work
