@@ -320,7 +320,7 @@ lml==0.1.0
 locket==0.2.1
 LunarCalendar==0.0.9
 lxml==4.6.3
-Mako==1.1.4
+Mako==1.2.2
 mapclassify @ file:///home/conda/feedstock_root/build_artifacts/mapclassify_1608686039411/work
 marisa-trie==0.7.5
 Markdown @ file:///home/conda/feedstock_root/build_artifacts/markdown_1614595805172/work
