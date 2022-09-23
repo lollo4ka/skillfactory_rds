@@ -446,7 +446,7 @@ promise==2.3
 prompt-toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1623977816122/work
 pronouncing==0.2.0
 proto-plus==1.18.1
-protobuf==3.17.3
+protobuf==3.18.3
 psutil @ file:///home/conda/feedstock_root/build_artifacts/psutil_1610127094245/work
 ptyprocess @ file:///home/conda/feedstock_root/build_artifacts/ptyprocess_1609419310487/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
 pudb==2021.1
