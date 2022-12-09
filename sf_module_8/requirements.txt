@@ -58,7 +58,7 @@ catalogue==1.0.0
 catalyst==21.6
 catboost==0.26
 category-encoders==2.2.2
-certifi==2021.5.30
+certifi==2022.12.7
 cesium==0.9.12
 cffi @ file:///home/conda/feedstock_root/build_artifacts/cffi_1613413867554/work
 cftime==1.5.0
